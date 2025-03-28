@@ -12,7 +12,6 @@
 1. Clone repository
 ```bash
 https://github.com/GithubNL291/aiphucanh.git
-cd n8n-webhook-chat-ui
 ```
 
 2. Cài đặt các gói phụ thuộc
